@@ -36,7 +36,7 @@ Signal web component defines & performs:<br>
 - RTMFP + WebRTC-chord 
 - Webtorrent.io - tCDN
 - Convnet - Fabric AI
-- Axon - Fabric Signaling
+- NSQ - Distributed message queue 
 - LargeLocalStorage
 
 ##### Core Signaling Providers #####
