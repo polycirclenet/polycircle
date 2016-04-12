@@ -1,7 +1,7 @@
 ![logo](/polycircle.png?raw=true "Optional Title")
 ##### Circle-based Edge Network #####
  
-Isomoprhic edge applications, CDN, and signaling fabric over webbt || webrtc-chord ('circle') from any email, cloud drive, git repo, Backand (Parse successor), blockchain ($), or any improvised storage. This could ideally compel mitigating or obsoleting hosting & cloud infrastructure requirements entirely for the bravest hackeurs and supercomputing applicata.
+Isomoprhic edge applications, CDN, and signaling fabric over webbt || webrtc-chord ('circle') from any email, cloud drive, git repo, Backand (Parse successor), blockchain ($), or improvised storage. This could ideally compel mitigating or obsoleting hosting & cloud infrastructure requirements entirely for the bravest hackeurs and supercomputing applicata.
 
 ##### Registration #####
 Each new account is mapped to <br>
@@ -31,7 +31,7 @@ Signal web component defines & performs:<br>
 4. CAN - Namespace module loading per circleid<br>
 5. URL circle resolver - Get circleid signals roster<br>
 6. Circle mirror - Route circle content to client response<br>
-
+(entropy seeded one-time pad)
 ##### Peering Tools #####
 - Polymer
 - RTMFP + WebRTC-chord 
