@@ -15,7 +15,7 @@ Requires<br>
 2. Manually inserting signal.js to your site's index file if mapped as a CNAME.<br>
 
 Flow<br>
-1. Client requests signaling script -> &lt;script src=http://polycircle.net/signal?api_key&gt;<br>
+1. Client requests signaling script -> <br>&lt;script src=http://polycircle.net/signal?api_key&gt;<br>
 2. Script accesses signaling data through arbitrary browser-based storage api<br>
 3. Data is gz web component package of js, html, and css.<br>
 4. Content referenced in gz retrieved from LLS or IDBWrapper injection.<br>
