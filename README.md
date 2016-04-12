@@ -11,7 +11,7 @@ Each new account is mapped to &lt; app | user &gt;.polycircle.net.
 
 Requires<br>
 1. Registering your circle app namespace ("CAN") and optionally map your (sub)domain as a CNAME.<br>
-2. Manually inserting signal.js to your site's index file if unmapped as a CNAME.<br>
+2. Manually inserting signal.js to your site's index file if mapped as a CNAME.<br>
 
 Flow<br>
 1. Client requests signaling script -> &lt;script src=http://polycircle.net/signal?api_key&gt;<br>
