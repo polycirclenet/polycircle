@@ -4,7 +4,8 @@
 Isomoprhic edge applications, CDN, and signaling fabric over webbt || webrtc-chord ('circle') from any email, cloud drive, git repo, Backand (Parse successor), blockchain ($), or any improvised storage. This could ideally compel mitigating or obsoleting hosting & cloud infrastructure requirements entirely for the bravest hackeurs and supercomputing applicata.
 
 ##### Registration #####
-Each new account is mapped to &lt; app | user &gt;.polycircle.net.
+Each new account is mapped to 
+&lt; app | user &gt;.polycircle.net.
 <br>Use your own signaling domain as circle instance on polycircle.net via manual CNAME map.
 
 ##### Requirements & Flow #####
