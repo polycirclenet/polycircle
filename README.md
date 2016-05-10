@@ -1,7 +1,7 @@
 ![logo](/polycircle.png?raw=true "Optional Title")
 ##### Circle-based Edge Network #####
  
-Isomoprhic edge applications, CDN, and signaling fabric over webbt || webrtc-chord ('circle') from any email, cloud drive, git repo, Backand (Parse successor), blockchain ($), or improvised storage. This could ideally compel mitigating or obsoleting hosting & cloud infrastructure requirements entirely for the bravest hackeurs and supercomputing applicata.
+Decentralized apps & CDN with signaling for webbt || webrtc-chord ('circle') from any email, cloud drive, git repo, Backand (Parse successor), blockchain ($), or improvised storage. This could ideally compel mitigating or obsoleting hosting & cloud infrastructure requirements entirely for the bravest hackeurs and supercomputing applicata.
 
 ##### Registration #####
 Each new account is mapped to <br>
