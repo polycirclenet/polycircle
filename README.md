@@ -36,7 +36,6 @@ Signal web component defines & performs:<br>
 - Polymer
 - RTMFP + WebRTC-chord 
 - Webtorrent.io - tCDN
-- Convnet - Fabric AI
 - NSQ - Distributed message queue 
 - LargeLocalStorage
 
