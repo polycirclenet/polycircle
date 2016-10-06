@@ -27,11 +27,11 @@ Component contents: <br>
 Signal web component defines & performs:<br>
 1. CID - Circleid is 64bit OTP( CAN )<br>
 2. SIG - Signalid is 256bit OTP( REMOTE_ADDR + CID )<br>
-3. MID - Mediaid is 16bit OTP ( SIG + path ), path is media file or folder<br>
+3. MID - Mediaid is 16bit OTP( SIG + path ), path is media file or folder<br>
 4. CAN - Namespace module loading per circleid<br>
 5. URL circle resolver - Get circleid signals roster<br>
 6. Circle mirror - Route circle content to client response<br>
-(entropy seeded one-time pad)
+(entropyd seeds one-time pad (OTP))
 ##### Peering Tools #####
 - Polymer
 - RTMFP + WebRTC-chord 
