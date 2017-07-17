@@ -1,7 +1,10 @@
 ![logo](/polycircle.png?raw=true "Optional Title")
 ##### Circle-based Edge Network #####
  
-Decentralized apps & CDN with signaling for webbt || webrtc-chord ('circle') from any email, cloud drive, git repo, Backand (Parse successor), blockchain ($), or improvised storage. This could ideally compel mitigating or obsoleting hosting & cloud infrastructure requirements entirely for the bravest hackeurs and supercomputing applicata.
+Decentralized apps & CDN with signaling for webbt from any improvised storage. Should mitigate or obsolesce hosting & cloud infrastructure requirements entirely for the bravest users.
+
+*Is it truly serverless?* Well, its more like bootstraping metadata for a P2P-based global delivery cluster. 
+Among the cluster will also be our seeding supernodes where network metadata is shared with clients. 
 
 ##### Registration #####
 Each new account is mapped to <br>
@@ -34,8 +37,8 @@ Signal web component defines & performs:<br>
 (entropyd seeds one-time pad (OTP))
 ##### Peering Tools #####
 - Polymer
-- RTMFP + WebRTC-chord 
-- Webtorrent.io - tCDN
+- RTMFP + WebBT 
+- Webtorrent.io - torrent CDN
 - NSQ - Distributed message queue 
 - LargeLocalStorage
 
